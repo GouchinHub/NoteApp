@@ -1,11 +1,11 @@
 # NoteApp
 Distributed systems, Assignment 2
 
-node.js is required to run the application
+Node.js is required to run the application
 
-##usage
+## Usage
 
-### in root folder run the following to install all dependencies
+### In root folder run the following to install all dependencies
 
 
 ```
